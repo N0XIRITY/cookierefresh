@@ -1,6 +1,6 @@
 {
   "functions": {
-    "refresh.php": {
+    "api/refresh.php": {
       "runtime": "vercel-php@0.5.1"
     }
   }
